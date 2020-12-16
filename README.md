@@ -9,3 +9,5 @@
 
 
 ## Todo list
+- Django 
+    - bootstrap setup
